@@ -1,0 +1,10 @@
+a=5
+b="India"
+c=True
+d=5.4
+e=2+3j
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
